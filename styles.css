@@ -491,7 +491,7 @@ overflow: hidden;
     
 }
 
-.documentary-img iframe{
+.documentary-img video{
     width: 100%;
     display: block;
     height: 600px;

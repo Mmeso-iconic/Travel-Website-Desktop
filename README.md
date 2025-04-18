@@ -10,6 +10,7 @@ This is a simple and responsive travel-themed website that showcases beautiful d
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Live Demo](#live-demo)
+  - [Loom Links](#loom-links)
   - [Features](#features)
   - [Technologies Used](#technologies-used)
   - [Setup and Installation](#setup-and-installation)
@@ -29,6 +30,12 @@ This project is a travel website layout created to practice building visually ap
 
 Check out the live demo of the project: (https://travel-website-desktop.onrender.com) 
 ---
+
+##Loom Links
+I seperated the loom video into two due to issues with recording on my system
+Loom Link Part 1 : (https://www.loom.com/share/b87944cf15874d39912c470a58e11c67?sid=c25da73b-f99b-4dac-97e5-5ad3fe408213)
+Loom Link Par 2 : (https://www.loom.com/share/989fd79d33de45cba6954897c237e8d3?sid=bf65f7b8-071f-4c21-9891-d1c493d8f670)
+
 
 ## Features
 
